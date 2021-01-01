@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Computational Artist"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Computational Artist"
 description              : "An amazing website."
 url                      : "https://computationalartist.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/projects" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -123,13 +123,13 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Instagram"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
+    - label: "GitHub"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
+    - label: "Facebook"
       icon: "fab fa-fw fa-github"
       # url:
     - label: "GitLab"
@@ -138,7 +138,7 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
+    - label: "Twitter"
       icon: "fab fa-fw fa-instagram"
       # url:
 
