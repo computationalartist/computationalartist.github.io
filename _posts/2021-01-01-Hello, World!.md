@@ -1,5 +1,5 @@
 ---
 title: "Hello, World!"
-date: 2021-01-01 
-categories: jekyll update
+date: 01-01-2021
+categories: posts
 ---
