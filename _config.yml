@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
-locale                   : "en-GB"
+locale                   : "en-UK"
 title                    : "Computational Artist"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
