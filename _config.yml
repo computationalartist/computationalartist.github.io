@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Computational Artist"
   avatar           : "/img/computationalartist.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my **visual** world."
+  bio              : "Welcome to my **visual** world.\nstanding on the shoulder(s) of giants"
   location         : "Somewhere"
   email            :
   links:
